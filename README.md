@@ -1,2 +1,2 @@
 # NUSFinTechMonth
-In this repository, I will push all the code that i do for the NUS FinTech Month.
+In this repository, We will push all the code that we do for the NUS FinTech Month.
